@@ -8,6 +8,7 @@ PROBLEM STATEMENT
  
  
  OBJECTIVE
+ 
  	1. To analyze and forecast from the data set to predict which city is the best city to stay.
 	2. To predict the land value of the city if water supply rate changes and also if electricity supply rate changes.
 	3. To predict whether the land value increases or decreases based on the water supply rate.
