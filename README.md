@@ -17,5 +17,34 @@ PROBLEM STATEMENT
 	6. To forecast the land value for next 12 months.
 	
 
+METHODS/TECHNIQUES/TOOLS USED
+	
+One way Anova
+          - To find which is the best city to stay based on water supply rate.
+
+Linear Regression
+         - To predict the house price based on the water supply rate and electricity supply rate .
+
+
+Barplot
+        - To visualize and interpret data
+
+Correlation
+	-To predict whether the land value increases or decreases based on the water supply rate.
+
+
+Mann Whitney test
+	-To analyze the difference in land value between two cities
+
+CUSUM
+	-To predict whether the land value depends on water supply and electricity supply rate.
+
+Time series	
+	-To forecast the land value for next 12 months.
+
+
+
+
+
 
 	
